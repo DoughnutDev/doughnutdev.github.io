@@ -1,11 +1,17 @@
 body {
-  padding-top: 50px;  /* Move body of page below navbar. */
+  padding-top: 0px;  /* Move body of page below navbar. */
 }
 
 .page-content {
   padding: 10px;
   text-align: center;
 }
+
+
+.navbar-default {
+  padding-top: 0px;
+}
+
 
 img {
   display: block;
